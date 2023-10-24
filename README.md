@@ -2,7 +2,7 @@
 
 # Orbiter Space Flight Simulator
 
-Orbiter is a spaceflight simulator based on Newtonian mechanics. Its playground
+Orbiter is a spaceflight simulator based on Newtonian m. Its playground
 is our solar system with many of its major bodies – the sun, planets and moons.
 You take control of a spacecraft – either historic, hypothetical, or purely
 science fiction. Orbiter is unlike most commercial computer games with a space
